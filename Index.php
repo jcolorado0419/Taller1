@@ -1,7 +1,7 @@
 <?php
    
-   echo("Ejercicio Elaborado por Julián Andrés Colorado Castañeda y Yuliana Andrea Paniagua <br>");
-   echo"<br> Ejercicio 1";
+   echo("Ejercicio Elaborado por Julián Andrés Colorado Castañeda <br>");
+   echo"<br> Ejercicio 1 <br>";
 
    //Ejercicio 1
    $numero1=10; 
